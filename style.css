@@ -17,10 +17,10 @@ body {
 }
 
 .logo a {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 800;
     float: left;
-    font-family: 'Open Sans',sans-serif;
+    font-family: courier;
     color: #364f6b;
 }
 

@@ -20,7 +20,7 @@ body {
     font-size: 50px;
     font-weight: 800;
     float: left;
-    font-family: courier;
+    font-family: 'Open Sans',sans-serif;
     color: #364f6b;
 }
 
@@ -102,7 +102,7 @@ a.tbl-biru {
     font-weight: bold;
 }
 
-a.tbl-biru:hover {
+a.thttps://rinjanistis.github.iobl-biru:hover {
     background: #fc5185;
     text-decoration: none;
 }
